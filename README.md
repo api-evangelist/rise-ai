@@ -65,4 +65,18 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 Rise.ai is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://rise.ai/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rise.ai/)
+- [Documentation](https://dev.rise.ai/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/rise-ai/](https://apis.io/providers/rise-ai/).
